@@ -1,0 +1,4 @@
+Git Status - Checks working tree status
+Git Add - Stages changes
+Git Commit - Saves changes in repository history
+Git Push - Uploads commits to remote repository
